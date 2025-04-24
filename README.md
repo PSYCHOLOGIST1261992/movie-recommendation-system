@@ -27,14 +27,3 @@ recommend("Avatar")
 
 
 
-
-⭐️ Star this repo if you like it! Pull requests and feedback are always welcome.
-
----
-
-Let me know if you want help:
-- Publishing this on GitHub
-- Adding visuals (screenshots of Colab output)
-- Turning this into a **web app with Streamlit**
-
-Ready to ship this to GitHub?
