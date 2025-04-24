@@ -5,7 +5,6 @@ A content-based movie recommender built using NLP and cosine similarity on the T
 This project recommends similar movies based on metadata such as genres, cast, crew, keywords, and overview.
 
 ---
-
 ## 📌 Features
 
 - Dataset merging and preprocessing
@@ -24,7 +23,7 @@ recommend("Avatar")
 OUTPUT:
 ['John Carter', 'Star Trek', 'Guardians of the Galaxy', 'Pacific Rim', 'The Avengers']
 
-🛠️ Tech Stack
+**##  🛠️ Tech Stack**
 Python
 
 Pandas
@@ -36,14 +35,14 @@ Scikit-learn
 Google Colab
 
 
-📂 Files in This Repo
+**## 📂 Files in This Repo**
 
 File	Description
 Movie_Recommendation_System.ipynb	Jupyter/Colab notebook with code
 README.md	Project overview and instructions
 
 
-🚀 How to Run
+**## 🚀 How to Run**
 Open the notebook in Google Colab
 
 Upload the datasets when prompted
@@ -52,7 +51,7 @@ Run all cells
 
 Use recommend("Movie Name") to get suggestions
 
-🙋‍♂️ Author
+**## 🙋‍♂️ Author**
 Salman
 🔗 LinkedIn
 💻 GitHub
