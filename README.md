@@ -1,2 +1,26 @@
-# movie-recommendation-system
-"A content-based movie recommender built with Python and NLP"
+# 🎬 Movie Recommendation System
+
+A content-based movie recommender built using NLP techniques and cosine similarity on the TMDB 5000 Movies dataset.
+
+## 📦 Overview
+
+This project uses movie metadata (genres, overview, cast, keywords, director) to recommend similar movies based on a selected title. It's built entirely in Python and runs smoothly in Google Colab.
+
+---
+
+## 🔧 Features
+
+- Dataset merging and feature engineering (genres, cast, keywords, overview, director)
+- Text vectorization using CountVectorizer
+- Cosine similarity to find top 5 similar movies
+- Simple `recommend()` function to test any movie
+
+---
+
+## 🚀 How to Run It
+
+1. Open the notebook in **Google Colab**
+2. Upload the datasets when prompted
+3. Run all cells and try:
+```python
+recommend("Avatar")
